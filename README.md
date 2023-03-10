@@ -11,4 +11,4 @@ Está diseñado para mostrar mis habilidades y experiencia como desarrollador we
 Para instalar este proyecto, simplemente cloná el repositorio y abrí el archivo index.html en tu navegador web.
 
 ```bash
-git clone https://github.com/matiasavalxs/matiasavalxs/matiasavalxs.github.io.git
+git clone https://github.com/matiasavalxs/matiasavalxs.github.io.git
